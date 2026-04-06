@@ -1,0 +1,6 @@
+supercharger_db.json
+__pycache__/
+*.pyc
+charge_history.json
+charge_history.html
+coords.json

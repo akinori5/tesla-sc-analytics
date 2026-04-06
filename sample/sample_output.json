@@ -1,0 +1,222 @@
+[
+  {
+    "location": "Munich, Germany – Schwabing",
+    "date": "2026-03-28",
+    "time": "14:30",
+    "cost": "€22.76",
+    "type": "Supercharging",
+    "kwh": 42.5,
+    "unit_cost": 0.45,
+    "country_code": "DE",
+    "source": "csv"
+  },
+  {
+    "location": "Stuttgart, Germany – Vaihingen",
+    "date": "2026-03-28",
+    "time": "09:15",
+    "cost": "€19.55",
+    "type": "Supercharging",
+    "kwh": 38.2,
+    "unit_cost": 0.43,
+    "country_code": "DE",
+    "source": "csv"
+  },
+  {
+    "location": "Frankfurt, Germany – Niederrad",
+    "date": "2026-03-27",
+    "time": "16:45",
+    "cost": "€23.98",
+    "type": "Supercharging",
+    "kwh": 45.8,
+    "unit_cost": 0.44,
+    "country_code": "DE",
+    "source": "csv"
+  },
+  {
+    "location": "Cologne, Germany – Marsdorf",
+    "date": "2026-03-27",
+    "time": "10:20",
+    "cost": "€17.79",
+    "type": "Supercharging",
+    "kwh": 35.6,
+    "unit_cost": 0.42,
+    "country_code": "DE",
+    "source": "csv"
+  },
+  {
+    "location": "Amsterdam, Netherlands – Westpoort",
+    "date": "2026-03-27",
+    "time": "07:30",
+    "cost": "€13.75",
+    "type": "Supercharging",
+    "kwh": 28.9,
+    "unit_cost": 0.4,
+    "country_code": "NL",
+    "source": "csv"
+  },
+  {
+    "location": "Amsterdam, Netherlands – Westpoort",
+    "date": "2026-03-15",
+    "time": "18:00",
+    "cost": "€14.85",
+    "type": "Supercharging",
+    "kwh": 31.2,
+    "unit_cost": 0.4,
+    "country_code": "NL",
+    "source": "csv"
+  },
+  {
+    "location": "Utrecht, Netherlands – Leidsche Rijn",
+    "date": "2026-03-08",
+    "time": "10:30",
+    "cost": "€20.47",
+    "type": "Supercharging",
+    "kwh": 44.1,
+    "unit_cost": 0.39,
+    "country_code": "NL",
+    "source": "csv"
+  },
+  {
+    "location": "Amsterdam, Netherlands – Westpoort",
+    "date": "2026-02-22",
+    "time": "14:15",
+    "cost": "€12.61",
+    "type": "Supercharging",
+    "kwh": 26.5,
+    "unit_cost": 0.4,
+    "country_code": "NL",
+    "source": "csv"
+  },
+  {
+    "location": "Brussels, Belgium – Drogenbos",
+    "date": "2026-02-14",
+    "time": "11:00",
+    "cost": "€19.90",
+    "type": "Supercharging",
+    "kwh": 39.8,
+    "unit_cost": 0.42,
+    "country_code": "BE",
+    "source": "csv"
+  },
+  {
+    "location": "Amsterdam, Netherlands – Westpoort",
+    "date": "2026-02-14",
+    "time": "08:00",
+    "cost": "€15.90",
+    "type": "Supercharging",
+    "kwh": 33.4,
+    "unit_cost": 0.4,
+    "country_code": "NL",
+    "source": "csv"
+  },
+  {
+    "location": "Rotterdam, Netherlands – Alexandrium",
+    "date": "2026-01-25",
+    "time": "15:30",
+    "cost": "€20.10",
+    "type": "Supercharging",
+    "kwh": 41.2,
+    "unit_cost": 0.41,
+    "country_code": "NL",
+    "source": "csv"
+  },
+  {
+    "location": "Amsterdam, Netherlands – Westpoort",
+    "date": "2026-01-10",
+    "time": "09:45",
+    "cost": "€14.18",
+    "type": "Supercharging",
+    "kwh": 29.8,
+    "unit_cost": 0.4,
+    "country_code": "NL",
+    "source": "csv"
+  },
+  {
+    "location": "Paris, France – La Défense",
+    "date": "2025-12-20",
+    "time": "16:00",
+    "cost": "€25.29",
+    "type": "Supercharging",
+    "kwh": 48.3,
+    "unit_cost": 0.44,
+    "country_code": "FR",
+    "source": "csv"
+  },
+  {
+    "location": "Brussels, Belgium – Drogenbos",
+    "date": "2025-12-20",
+    "time": "11:30",
+    "cost": "€18.34",
+    "type": "Supercharging",
+    "kwh": 36.7,
+    "unit_cost": 0.42,
+    "country_code": "BE",
+    "source": "csv"
+  },
+  {
+    "location": "Amsterdam, Netherlands – Westpoort",
+    "date": "2025-12-19",
+    "time": "08:30",
+    "cost": "€14.52",
+    "type": "Supercharging",
+    "kwh": 30.5,
+    "unit_cost": 0.4,
+    "country_code": "NL",
+    "source": "csv"
+  },
+  {
+    "location": "Amsterdam, Netherlands – Westpoort",
+    "date": "2025-11-15",
+    "time": "13:00",
+    "cost": "€16.47",
+    "type": "Supercharging",
+    "kwh": 34.6,
+    "unit_cost": 0.4,
+    "country_code": "NL",
+    "source": "csv"
+  },
+  {
+    "location": "Eindhoven, Netherlands – Acht",
+    "date": "2025-10-28",
+    "time": "10:00",
+    "cost": "€18.98",
+    "type": "Supercharging",
+    "kwh": 40.9,
+    "unit_cost": 0.39,
+    "country_code": "NL",
+    "source": "csv"
+  },
+  {
+    "location": "Zurich, Switzerland – Oerlikon",
+    "date": "2025-10-05",
+    "time": "14:20",
+    "cost": "CHF 22.72",
+    "type": "Supercharging",
+    "kwh": 43.7,
+    "unit_cost": 0.52,
+    "country_code": "CH",
+    "source": "csv"
+  },
+  {
+    "location": "Freiburg, Germany",
+    "date": "2025-10-05",
+    "time": "09:00",
+    "cost": "€19.14",
+    "type": "Supercharging",
+    "kwh": 37.4,
+    "unit_cost": 0.43,
+    "country_code": "DE",
+    "source": "csv"
+  },
+  {
+    "location": "Amsterdam, Netherlands – Westpoort",
+    "date": "2025-09-12",
+    "time": "11:30",
+    "cost": "€15.28",
+    "type": "Supercharging",
+    "kwh": 32.1,
+    "unit_cost": 0.4,
+    "country_code": "NL",
+    "source": "csv"
+  }
+]
